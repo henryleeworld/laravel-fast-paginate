@@ -8,7 +8,7 @@
         "php": "^8.0.2",
         "guzzlehttp/guzzle": "^7.4",
         "hammerstone/fast-paginate": "^0.1",
-        "laravel/framework": "^9.42",
+        "laravel/framework": "^9.43",
         "laravel/sanctum": "^2.15.1",
         "laravel/tinker": "^2.7"
     },

@@ -1,4 +1,4 @@
-# Laravel 10 快速分頁
+# Laravel 11 快速分頁
 
 引入 hammerstone 的 fast-paginate 套件來擴增快速分頁，利用延遲關聯技術，通過覆蓋索引來得到所需要的主鍵，然後再根據這些主鍵關聯原表獲得需要的行。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/jLFCJeo.png)
+![](https://i.imgur.com/rPCntKM.png)
 > 依據目前使用者正在看的頁面自動設定正確的分頁數量與偏移數

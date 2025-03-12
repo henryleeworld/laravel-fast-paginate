@@ -6,6 +6,9 @@ use App\Models\User;
 
 class UsersController extends Controller 
 {
+    /**
+     * Display the resource.
+     */
     public function show() 
     {
         $users = User::fastPaginate(10);

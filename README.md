@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/58zcFjr.png)
+![](https://i.imgur.com/esIXwVj.png)
 > 依據目前使用者正在看的頁面自動設定正確的分頁數量與偏移數

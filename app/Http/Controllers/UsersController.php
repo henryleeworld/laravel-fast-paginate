@@ -7,7 +7,7 @@ use App\Models\User;
 class UsersController extends Controller 
 {
     /**
-     * Display the resource.
+     * Display the specified resource.
      */
     public function show() 
     {
